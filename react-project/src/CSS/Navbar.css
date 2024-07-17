@@ -1,0 +1,11 @@
+#ul{
+background-color: lightgray;
+direction: rtl;
+
+}
+.li{
+    color: red;
+    text-decoration: none;
+    font-size: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

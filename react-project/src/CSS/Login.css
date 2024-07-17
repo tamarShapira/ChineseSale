@@ -1,0 +1,19 @@
+.form-control {
+    width: 25%;
+    margin-top: 2%;
+    margin-left: 45%;
+    font-size: medium;
+    direction: rtl;
+}
+#login{
+    display: flex;
+    flex-direction: column;
+}
+.btn-login{
+    width: 15%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 40%;
+    font-size: medium;
+    direction: rtl;
+}
